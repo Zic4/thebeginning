@@ -12,3 +12,11 @@ Teste para texto de isntrução de operação, informação do projeto e módulo
 
 
 ![PyPI - Status](https://img.shields.io/pypi/status/Em%20Desenvolvimento?label=Desenvolvendo&logo=Vers%C3%A3o%201.0&style=plastic)
+
+
+```
+sem a badge pode ser usado
+```
+
+
+:construction: Projeto em construção :construction:
