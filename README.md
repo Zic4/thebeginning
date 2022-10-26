@@ -7,3 +7,8 @@ Teste para texto de isntrução de operação, informação do projeto e módulo
 
 
 ![Texto altetnativo ou para descrição](https://img.shields.io/pypi/status/Em%20Desenvolvimento?label=Desenvolvendo&logo=Vers%C3%A3o%201.0&style=plastic)
+
+
+
+
+![PyPI - Status](https://img.shields.io/pypi/status/Em%20Desenvolvimento?label=Desenvolvendo&logo=Vers%C3%A3o%201.0&style=plastic)
