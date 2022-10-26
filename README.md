@@ -1,5 +1,5 @@
 # thebeginning
-where it all began
+where it all began || Pode definir se o projeto está em desenvolvimento ou concluído, poderá conter a versão.
 
 
 ```
